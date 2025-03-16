@@ -1,5 +1,5 @@
 👋 Hi, I'm Ajdin Kmetas  
-  A passionate front-end developer with a focus on the React ecosystem. I specialize in creating dynamic, user-friendly web applications and I am always excited to explore new technologies.  
+  A passionate front-end developer with a focus on the React ecosystem. I specialize in creating dynamic, user-friendly web applications and, I am always excited to explore new technologies.  
 
 👀 Interests  
 - Front-end Development (React/React Hooks, TypeScript, CSS, API integration, testing)  
