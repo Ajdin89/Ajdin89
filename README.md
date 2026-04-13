@@ -1,5 +1,3 @@
-Evo finalnog README-a sa ispravnim linkom:
-
 ```markdown
 # 👋 Ajdin Kmetas
 **Frontend Developer · Sarajevo, Bosnia & Herzegovina**
