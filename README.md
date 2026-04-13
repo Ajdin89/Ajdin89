@@ -1,4 +1,3 @@
-```markdown
 # 👋 Ajdin Kmetas
 **Frontend Developer · Sarajevo, Bosnia & Herzegovina**
 
@@ -47,4 +46,3 @@ Open to freelance work, open-source collaboration, and full-time remote roles.
 
 [![Email](https://img.shields.io/badge/Email-ajdinkmetas@outlook.com-blue?style=flat&logo=microsoft-outlook)](mailto:ajdinkmetas@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajdin-kmetas)
-```
